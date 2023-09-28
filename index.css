@@ -4,6 +4,23 @@ HTML {
     font-family: monospace;
     color: green;
 }
+DIV#header {
+    height: 80px;
+    vertical-align: center;
+}
+
+BODY {
+    background-image: url("nodes.jpg");
+}
+
+A.headers {
+    float: right;
+    margin: 5px;
+}
+
+A#title {
+    vertical-align: middle;
+}
 
 DIV{
     border: red 1px solid;
